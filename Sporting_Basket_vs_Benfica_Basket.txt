@@ -1,0 +1,144 @@
+name1:
+Sporting
+name2:
+Benfica
+result1:
+12
+result2:
+1
+max_players1:
+5
+max_players2:
+5
+max_substitute_players:
+7
+players1_size:
+5
+players1_name:
+Antonio Adan
+players1_position:
+Base
+players1_name:
+Jerry St Juste
+players1_position:
+Base
+players1_name:
+Pedro Porro
+players1_position:
+Poste
+players1_name:
+Sebastian Coates
+players1_position:
+Poste
+players1_name:
+Luis Neto
+players1_position:
+Extremo
+players2_size:
+5
+players2_name:
+Vlachodimos
+players2_position:
+Extremo
+players2_name:
+Antonio Silva
+players2_position:
+Base
+players2_name:
+Grimaldo
+players2_position:
+Base
+players2_name:
+Brooks
+players2_position:
+Poste
+players2_name:
+Bha
+players2_position:
+Poste
+substitute_players1_size:
+7
+substitute_players1_name:
+Franco Israel
+substitute_players1_position:
+Extremo
+substitute_players1_name:
+Goncalo Inacio
+substitute_players1_position:
+Extremo
+substitute_players1_name:
+Tanlongo
+substitute_players1_position:
+Base
+substitute_players1_name:
+Jeovane Cabral
+substitute_players1_position:
+Base
+substitute_players1_name:
+Matheus Reis
+substitute_players1_position:
+Poste
+substitute_players1_name:
+Essugo
+substitute_players1_position:
+Poste
+substitute_players1_name:
+Daniel Braganca
+substitute_players1_position:
+Extremo
+substitute_players2_size:
+7
+substitute_players2_name:
+Helton Leite
+substitute_players2_position:
+Extremo
+substitute_players2_name:
+Morato
+substitute_players2_position:
+Extremo
+substitute_players2_name:
+Gil Dias
+substitute_players2_position:
+Extremo
+substitute_players2_name:
+Otamendi
+substitute_players2_position:
+Base
+substitute_players2_name:
+Marcelino
+substitute_players2_position:
+Base
+substitute_players2_name:
+Musa
+substitute_players2_position:
+Poste
+substitute_players2_name:
+Lucas Verissimo
+substitute_players2_position:
+Poste
+scored_goals1_size:
+2
+scored_goals1_name:
+Pedro Porro
+scored_goals1_score:
+6
+scored_goals1_name:
+Sebastian Coates
+scored_goals1_score:
+6
+scored_goals2_size:
+1
+scored_goals2_name:
+Vlachodimos
+scored_goals2_score:
+1
+substitutions1_size:
+1
+substitutions1_in:
+Sebastian Coates
+substitutions1_out:
+10:25
+substitutions1_time:
+0
+substitutions2_size:
+0
